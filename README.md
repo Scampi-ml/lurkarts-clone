@@ -1,2 +1,2 @@
 # lurkarts-clone
-My attempt to do re-create the lurkarts bot on twitch.
+My attempt to re-create the lurkarts bot on twitch.
