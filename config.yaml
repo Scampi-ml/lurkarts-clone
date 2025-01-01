@@ -1,0 +1,32 @@
+APP:
+  ACCESS_TOKEN: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  ACCOUNTS:
+  - id: 28878385
+    name: scampi_ml
+  BOT_COMMANDS_LINK: https://docs.example.co.uk/latest/
+  BOT_USER_ID: 28878385
+  BURN_POINTS: 3
+  CALLBACK_URL: https://127.0.0.1/callback
+  CLIENT_ID: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  CLIENT_SECRET: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  DATABASE:
+    DBCHARSET: utf8mb4
+    DBCONNECT_TIMEOUT: 20
+    DBHOST: 127.0.0.1
+    DBNAME: own_lurkarts
+    DBPASS: ''
+    DBPORT: 3306
+    DBUSER: root
+  DATABASE_TEST:
+    DBCHARSET: utf8mb4
+    DBCONNECT_TIMEOUT: 20
+    DBHOST: 127.0.0.1
+    DBNAME: own_lurkarts
+    DBPASS: ''
+    DBPORT: 3306
+    DBUSER: root
+  DEBUG: true
+  DROP_COST: 7
+  MODE: TEST
+  REFRESH_TOKEN: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  SECRET_STRING: ''
